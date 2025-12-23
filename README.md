@@ -63,7 +63,7 @@ Python was used for:
 
 ## Dataset
 Source: Kaggle – <a href="https://www.kaggle.com/datasets/prachi13/customer-analytics?select=Train.csv">E-Commerce Shipping Data</a>
-The dataset includes shipment mode, warehouse block, product importance, discounts and customer ratings.
+- The dataset includes shipment mode, warehouse block, product importance, discounts and customer ratings.
 
 ---
 
